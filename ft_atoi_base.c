@@ -1,10 +1,13 @@
 #include <stdio.h>
 
-static int isblank(int c)
+//Checks for whitespaces symbol
+//return 1 if found spaces
+static int isblank(int c) 
 {
   return (c == '\t' || c == '\n' || c == '\v' || c == '\f' || c == '\r'
 	  || c == ' ');
 }
+
 
 static int ind(char c, const char *str)
 {
@@ -18,13 +21,10 @@ static int ind(char c, const char *str)
 
 int ft_strlen(const char *s, int a)
 {
-  //if (!s[a])
-    // return (a);
-  //  return (ft_strlen(s, ++a));
   int i = 0;
- while (s[i])
-   i++;
- return (i);
+  while (s[i])
+    i++;
+  return (i);
 }
 
 int ft_atoi_base(const char *nptr, const char *base)

@@ -1,7 +1,6 @@
 #include <stdio.h>
 #define USAGE "[usage]: ./a.out [string]"
 
-//nice program
 int main(int ac, char **av)
 {
   char	*s = av[1];

@@ -1,9 +1,8 @@
 #Hello World\!
-#Vlad here
+#TRUE Vlad here
 #TRUE Andrey here
-#Andrey here
-#Yaroslav here
-#Denis here 2!
+#TRUE Yaroslav here
+#TRUE Denis here
 ___________________________
 all guys working here ^ _ ^
 

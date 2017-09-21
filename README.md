@@ -8,3 +8,4 @@ all guys working here ^ _ ^
 
 ___________________________
 Andrey add merge and add /*comment here*/
+Andrey wrote smth here

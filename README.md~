@@ -8,4 +8,8 @@ all guys working here ^ _ ^
 
 ___________________________
 Andrey add merge and add /*comment here*/
+<<<<<<< HEAD
 Yaroslav add smth
+=======
+Andrey wrote smth here
+>>>>>>> fa85d38a3cd1a1340a638b20f4cb1f37e2a1e668

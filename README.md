@@ -2,7 +2,6 @@
 #Vlad here
 #TRUE Andrey here
 #Andrey here
-#Yaroslav here
-#Denis here 2!
+#TRUE Yaroslav here
 ___________________________
 all guys working here ^ _ ^
